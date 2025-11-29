@@ -29,3 +29,4 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções web mod
   <i>Obrigado pela visita!</i>
 </p>
 
+[![DaniloSRocha26 GitHub stats](https://github-readme-stats.vercel.app/api?username=danilosrocha26)](https://github.com/danilosrocha26/github-readme-stats)
