@@ -23,7 +23,6 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções web mod
 ### 📫 Onde me encontrar
 
 * <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20" /> [Danilo Santana Rocha](https://www.linkedin.com/in/danilo-santana-rocha-6021a0303/)
-* <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" /> <a href="mailto:Danilo.santana26@Outlook.com.br">Danilo.santana26@Outlook.com.br</a>
 
 ---
 <p align="center">
