@@ -1,5 +1,31 @@
-### 📊 Minhas Estatísticas
+# Olá, Meu nome é Danilo Santana Rocha! 👋
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloSRocha26&layout=compact&theme=dracula)
+Sou um desenvolvedor em constante evolução, focado em criar soluções web modernas. Atualmente, estou aprofundando meus conhecimentos no ecossistema JavaScript e construindo aplicações Full Stack.
 
-![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=DaniloSRocha26&show_icons=true&theme=dracula)
+---
+
+### 🚀 O que estou estudando e praticando
+
+* **Front-end:** React, Tailwind CSS, JavaScript, TypeScript
+* **Back-end:** Node.js
+
+---
+
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,html,css,git,github,vscode" />
+</div>
+
+---
+
+### 📫 Onde me encontrar
+
+* <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20" /> [Danilo Santana Rocha](https://www.linkedin.com/in/danilo-santana-rocha-6021a0303/)
+* <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" /> <a href="mailto:Danilo.santana26@Outlook.com.br">Danilo.santana26@Outlook.com.br</a>
+
+---
+<p align="center">
+  <i>Obrigado pela visita!</i>
+</p>
