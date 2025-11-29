@@ -28,3 +28,7 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções web mod
 <p align="center">
   <i>Obrigado pela visita!</i>
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaniloSRocha26&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
