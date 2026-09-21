@@ -1,21 +1,29 @@
 # Olá, Meu nome é Danilo Santana Rocha! 👋
 
-Sou um desenvolvedor em constante evolução, focado em criar soluções web modernas. Atualmente, estou aprofundando meus conhecimentos no ecossistema JavaScript e construindo aplicações Full Stack.
+Estudante de Engenharia de Software na **UCSAL**, migrando o foco pra **Dados**: construo pipelines, organizo dado bruto e transformo número em decisão. Hoje estagiário de TI, buscando minha próxima oportunidade como **Engenheiro(a) de Dados** ou **Analista de Dados**.
 
 ---
 
 ### 🚀 O que estou estudando e praticando
 
-* **Front-end:** React, Tailwind CSS, JavaScript, TypeScript
-* **Back-end:** Node.js
+* **Engenharia de Dados:** Python, PostgreSQL, MongoDB, automação (GitHub Actions)
+* **Análise de Dados:** SQL, Pandas, Power BI, Excel
+* **Web:** React, Tailwind CSS, JavaScript, TypeScript, Node.js
 
 ---
 
+### 🧠 Projeto em destaque: Tenno Analysis
+
+Site de análise de mercado do jogo Warframe, do zero até publicado. Pipeline em Python que coleta e cruza dado de múltiplas fontes, automação diária via GitHub Actions, e modelagem de score próprio combinando preço, volume de venda e eficiência de farm.
+
+🌐 [Ver o site no ar](https://tennoanalysis.pages.dev)
+
+---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,postgres,mongodb,js,ts,nodejs,react,tailwind,html,css,git,github,githubactions,vscode" />
 </div>
 
 ---
