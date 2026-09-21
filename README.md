@@ -8,7 +8,7 @@ Estudante de Engenharia de Software na **UCSAL**, migrando o foco pra **Dados**:
 
 * **Engenharia de Dados:** Python, PostgreSQL, MongoDB, automação (GitHub Actions)
 * **Análise de Dados:** SQL, Pandas, Power BI, Excel
-* **Web:** React, Tailwind CSS, JavaScript, TypeScript, Node.js
+* **Também:** JavaScript
 
 ---
 
@@ -23,7 +23,7 @@ Site de análise de mercado do jogo Warframe, do zero até publicado. Pipeline e
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,postgres,mongodb,js,ts,nodejs,react,tailwind,html,css,git,github,githubactions,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,postgres,mongodb,js,git,github,githubactions,vscode" />
 </div>
 
 ---
