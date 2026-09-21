@@ -23,7 +23,7 @@ Site de análise de mercado do jogo Warframe, do zero até publicado. Pipeline e
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,postgres,mongodb,js,git,github,githubactions,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,postgres,mongodb,js" />
 </div>
 
 ---
