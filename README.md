@@ -6,7 +6,7 @@ Estudante de Engenharia de Software na **UCSAL**, migrando o foco pra **Dados**:
 
 ### 🚀 O que estou estudando e praticando
 
-* **Engenharia de Dados:** Python, PostgreSQL, MongoDB, automação (GitHub Actions)
+* **Engenharia de Dados:** Python, PostgreSQL, MongoDB
 * **Análise de Dados:** SQL, Pandas, Power BI, Excel
 * **Também:** JavaScript
 
