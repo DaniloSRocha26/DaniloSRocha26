@@ -12,14 +12,6 @@ Estudante de Engenharia de Software na **UCSAL**, migrando o foco pra **Dados**:
 
 ---
 
-### 🧠 Projeto em destaque: Tenno Analysis
-
-Site de análise de mercado do jogo Warframe, do zero até publicado. Pipeline em Python que coleta e cruza dado de múltiplas fontes, automação diária via GitHub Actions, e modelagem de score próprio combinando preço, volume de venda e eficiência de farm.
-
-🌐 [Ver o site no ar](https://tennoanalysis.pages.dev)
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
